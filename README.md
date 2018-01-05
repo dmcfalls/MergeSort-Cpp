@@ -1,3 +1,3 @@
 # MergeSort-Cpp
 
-Single- and multithreaded MergeSort implementations in C++.
+Single-threaded and multithreaded MergeSort implementations in C++.
